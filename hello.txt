@@ -19,5 +19,5 @@ hello! let's start!
 hello! let's start!
 hello! let's start!
 hello! let's start!
-hello! let's start!
 hello! let's start! master test
+hello! let's start! hot-fix test
